@@ -1,0 +1,18 @@
+1) Introduction/Business Problem — 
+This study aims to provide a German Brewery with the pertinent data and analysis to guide their investment and expansion decison into Toronto. Considering that the city of Toronto is a major city in North America with an intereisting demographic beneficial for a market, it is quite appealing to Germans pursing global expansion. However, with limited knowledge of the Toronto market, the Brewery from Bavaria have hired us to assist in the selection of which areas of Toronto will facilitate a launch of their brewery. Their preference is based on the following criteria:
+A neighborhood with an average to above average total population
+Above average populations of 25–40-year-old male and female professionals
+A high concentration of the population having secondary education
+Average to above average median net household incomes
+Our objective is to locate and recommend to the investors, the target audience, which neighborhood(s) of Toronto will be the best choice to start their international growth plan. The information gained will assist in choosing the right location by providing data about the population of each neighborhood, in addition to other established venues present in these areas.
+
+2) Data — The necessary information needed by the investing group will come from the following sources:
+City of Toronto Neighborhood Profiles for providing an overview of the neighborhoods in Toronto
+Image for post
+City of Toronto Open Data Catalogue : The Census of Population is held across Canada every five years (the last being in 2016), and collects data about age and sex, families and households, language, immigration and internal migration, ethnocultural diversity, Aboriginal peoples, housing, education, income, and labor. City of Toronto Neighborhood Profiles use this Census data to provide a portrait of the demographic, social and economic characteristics of the people and households in each City of Toronto neighborhood. The profiles present selected highlights from the data, but these accompanying data files provide the full data set assembled for each neighborhood.
+In these profiles of the City of Toronto’s 140 social planning neighborhoods. These social planning neighborhoods were developed by the City of Toronto to help government and community organizations with local planning by providing socio-economic data at a meaningful geographic area. The boundaries of these social planning neighborhoods are consistent over time, allowing for comparison between Census years. Neighborhood level data from a variety of other sources are also available through the City’s Wellbeing Toronto mapping application and here on the Open Data portal.
+Each data point in this file is presented for the City’s 140 neighborhoods, as well as for the City of Toronto as a whole. The data is sourced from several Census tables released by Statistics Canada. The general Census Profile is the main source table for this data, but other Census tables have also been used to provide additional information. CSV File
+City of Toronto Neighborhood Shapes for mapping : GeoJSON File
+Image for post
+Wikipedia for Toronto Neighborhood Borough Designation : Each of the 140 social planning neighborhoods of Toronto reside within a defined borough. While the City of Toronto is a singular municipality, the 140 neighborhoods are still grouped into six distinct boroughs.
+Foursquare API to collect information on other venues/competitors in the neighborhoods of Toronto.
